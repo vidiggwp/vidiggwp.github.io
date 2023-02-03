@@ -24,9 +24,9 @@ a {
 :root {
     --color-primary: #222831;
     --color-second: #393E46;
-    --color-button: hsl(177, 98%, 54%);
-    --color-text: #EEEEEE;
-    --color-button2: hsl(177, 98%, 54%);
+    --color-button: hsla(13, 82%, 52%, 0.804);
+    --color-text: #ffffff;
+    --color-button2: hsla(24, 77%, 57%, 0.628);
 }
 
 nav {
